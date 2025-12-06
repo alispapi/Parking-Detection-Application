@@ -25,8 +25,9 @@ Bu projeyi çalıştırmak için bilgisayarınızda Python kurulu olmalıdır. A
 1. Projeyi bilgisayarınıza indirin.
 2. Gerekli kütüphaneleri yüklemek için terminal veya komut satırında şu komutu çalıştırın:
 
-``bash
+```bash
 pip install opencv-python cvzone numpy
+```
 
 3. Çalışılacak otopark görselinin (carpark1.png) proje dizininde bulunduğundan emin olun.
 
